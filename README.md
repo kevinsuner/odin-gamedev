@@ -1,2 +1,2 @@
 # odin-gamedev
-Gamedev experiments with the Odin programming language
+Gamedev experiments with the Odin programming language.
